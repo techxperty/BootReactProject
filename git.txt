@@ -1,0 +1,2 @@
+how to create branch: git branch branch0
+how to change the branch: git checkout branch0
